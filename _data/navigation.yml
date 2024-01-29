@@ -10,3 +10,13 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  - title: "カテゴリ"
+    url: /categories/
+  - title: "タグ"
+    url: /tags/
+
+counts:
+  - title: "カテゴリ"
+    use: true
+  - title: "タグ"
+    use: true
