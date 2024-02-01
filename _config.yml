@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "ja-JP"
 title                    : "パパノヤン"
 title_separator          : "-"
-subtitle                 : "Dart, Flutter, Flame And Game"
+subtitle                 : "Dart, Flutter, Flame And Game開発"
 name                     : "papanoyang"
-description              : "Dart、Flutter、Flameを使ったゲーム開発"
+description              : "Dart、Flutter、Flame、、Game開発、Flameを使ったゲーム開発"
 url                      : "https://papanoyang.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "papanoyang/papanoyang.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "パパノヤン"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Dart, Flutter, Flame and Game"
+  bio              : "Dart, Flutter, Flame and Game開発"
   location         : "神奈川、日本"
   email            :
   links:
