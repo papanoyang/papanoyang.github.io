@@ -6,4 +6,14 @@ minimal mistakesのforkで作成
 
 ## 配信する内容は？
 
-Dart、Flutter、Flame、それと、Game
+2024年6月5日方向転換
+
+AIに関するもの、AIを活用した開発に関するもの！
+
+## ローカルメモ
+
+ローカル環境起動
+
+```
+bundle exec jekyll serve
+```
